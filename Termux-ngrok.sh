@@ -3,6 +3,10 @@
 # Obfuscate by @Miickeyy
 # Contactame https://t.me/Miickeyy
 #
+#Suscribete al Canal No te Arrepentiras
+#
+#http://youtube.com/c/CésarHackGray_Y_Miickeyy
+#
 #obfuscate invisible 👌😎
 
 
