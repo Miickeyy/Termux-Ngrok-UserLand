@@ -1,6 +1,8 @@
 ### Video De Instalacion:https://www.youtube.com/watch?v=OhbN2pCTj6s
 ### termux-ngrok && UserLand
-Pagina Oficial De ngrok https://ngrok.com/ es un servicio que proporciona servidores detrás de redes NAT y Firewalls que realizan conexión pública en túneles [documentación] (https://ngrok.com/docs).
+Pagina Oficial De ngrok https://ngrok.com/ 
+
+es un servicio que proporciona servidores detrás de redes NAT y Firewalls que realizan conexión pública en túneles [documentación] (https://ngrok.com/docs).
 
  ###Comandos De Instalacion ngrok en Termux && UserLand en un solo .txt les dejo 3 enlaces por si uno ya no sirve 
  
